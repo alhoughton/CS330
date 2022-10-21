@@ -1,0 +1,2 @@
+C:\Users\Al\source\repos\OpenGLSample\OpenGLSample\Debug\OpenGLSample.exe
+C:\Users\Al\source\repos\Final Project\OpenGLSample\Debug\OpenGLSample.exe

@@ -1,0 +1,35 @@
+﻿  ShapeGenerator.cpp
+C:\Users\Al\source\repos\Final Project\OpenGLSample\ShapeGenerator.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Al\source\repos\Final Project\OpenGLSample\ShapeGenerator.cpp(30,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Al\source\repos\Final Project\OpenGLSample\ShapeGenerator.cpp(33,28): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Al\source\repos\Final Project\OpenGLSample\ShapeGenerator.cpp(34,28): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Al\source\repos\Final Project\OpenGLSample\ShapeGenerator.cpp(49,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Al\source\repos\Final Project\OpenGLSample\ShapeGenerator.cpp(51,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Al\source\repos\Final Project\OpenGLSample\ShapeGenerator.cpp(95,37): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Al\source\repos\Final Project\OpenGLSample\ShapeGenerator.cpp(96,37): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Al\source\repos\Final Project\OpenGLSample\ShapeGenerator.cpp(97,26): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  staticMesh3D.cpp
+c1xx : fatal  error C1083: Cannot open source file: 'staticMesh3D.cpp': No such file or directory
+  staticMeshIndexed3D.cpp
+c1xx : fatal  error C1083: Cannot open source file: 'staticMeshIndexed3D.cpp': No such file or directory
+  Generating Code...
